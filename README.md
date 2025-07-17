@@ -1,5 +1,5 @@
 ### Hey, I'm Iva!
-## Briefly about me...😁
+#### Briefly about me...😁
 
 🎓I graduated with honors from TUES in System Programming<br/>
 💻I am currently studying Artificial Intelligence at Technical University-Sofia<br/>
